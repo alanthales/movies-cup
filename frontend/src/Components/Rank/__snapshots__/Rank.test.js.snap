@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Rank from given props 1`] = `
+<div
+  className="MuiGrid-root rank-component MuiGrid-container MuiGrid-direction-xs-column"
+>
+  <div
+    className="MuiGrid-root champions MuiGrid-item"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-105 position"
+    >
+      1
+      º
+    </div>
+    <div
+      className="title"
+    >
+      <h4>
+        Filme vencedor
+      </h4>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root champions MuiGrid-item"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-106 position"
+    >
+      2
+      º
+    </div>
+    <div
+      className="title"
+    >
+      <h4>
+        Filme vice-campeão
+      </h4>
+    </div>
+  </div>
+</div>
+`;

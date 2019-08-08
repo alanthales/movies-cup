@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Movies Count from given props 1`] = `
+<div
+  className="MuiGrid-root movies-component-count MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <h4>
+      Selecionados
+    </h4>
+    <p>
+      4 de 8
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeLarge"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        Gerar Meu Campeonato
+      </span>
+    </button>
+  </div>
+</div>
+`;

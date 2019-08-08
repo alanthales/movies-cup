@@ -1,0 +1,36 @@
+.movies-component-count {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.movies-component-count h4 {
+  margin-bottom: 4px;
+}
+
+.movies-component-count p {
+  margin-top: 0;
+}
+
+.movies-component-list-item {
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  padding: 10px 5px 10px 5px;
+}
+
+.movies-component-list-item.MuiGrid-item {
+  margin-bottom: 20px;
+  width: 290px;
+}
+
+.movies-component-list-item p, .movies-component-list-item h5 {
+  margin: 3px 2px 3px 2px;
+}
+
+.movies-component-list-item p {
+  color: #333;
+  font-size: 80%;
+}
+
+.movies-component-list-item h5 {
+  font-size: 80%;
+}

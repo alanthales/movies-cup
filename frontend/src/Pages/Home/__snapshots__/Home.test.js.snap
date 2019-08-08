@@ -1,0 +1,336 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Home with data prop 1`] = `
+<div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-direction-xs-column"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <div
+        className="MuiBox-root MuiBox-root-144"
+      >
+        <div
+          className="MuiGrid-root header-component MuiGrid-container MuiGrid-justify-xs-center"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+          >
+            <h4>
+              CAMPEONATO DE FILMES
+            </h4>
+            <h1>
+              Fase de Seleção
+            </h1>
+            <hr
+              style={
+                Object {
+                  "width": "50px",
+                }
+              }
+            />
+            <p>
+              Selecione 8 filmes que você deseja que entre na competição e depois pressione o botão Gerar Meu Campeonato para prosseguir.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <div
+        className="MuiGrid-root movies-component-count MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <h4>
+            Selecionados
+          </h4>
+          <p>
+            0 de 8
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeLarge"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Gerar Meu Campeonato
+            </span>
+          </button>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root movies-component-list MuiGrid-container MuiGrid-justify-xs-space-between"
+      >
+        <div
+          className="MuiGrid-root movies-component-list-item MuiGrid-item"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <span
+                aria-disabled={false}
+                className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-151 MuiCheckbox-root MuiCheckbox-colorSecondary MuiIconButton-colorSecondary"
+                onBlur={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={null}
+              >
+                <span
+                  className="MuiIconButton-label"
+                >
+                  <svg
+                    aria-hidden="true"
+                    className="MuiSvgIcon-root"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                    />
+                  </svg>
+                  <input
+                    className="PrivateSwitchBase-input-154"
+                    data-indeterminate={false}
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                </span>
+              </span>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item"
+            >
+              <h5>
+                Teste
+              </h5>
+              <p>
+                2019
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`render Home with hasError prop 1`] = `
+<div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-direction-xs-column"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <div
+        className="MuiBox-root MuiBox-root-143"
+      >
+        <div
+          className="MuiGrid-root header-component MuiGrid-container MuiGrid-justify-xs-center"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+          >
+            <h4>
+              CAMPEONATO DE FILMES
+            </h4>
+            <h1>
+              Fase de Seleção
+            </h1>
+            <hr
+              style={
+                Object {
+                  "width": "50px",
+                }
+              }
+            />
+            <p>
+              Selecione 8 filmes que você deseja que entre na competição e depois pressione o botão Gerar Meu Campeonato para prosseguir.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <div
+        className="MuiGrid-root movies-component-count MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <h4>
+            Selecionados
+          </h4>
+          <p>
+            0 de 8
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeLarge"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Gerar Meu Campeonato
+            </span>
+          </button>
+        </div>
+      </div>
+      <p
+        className="text-center"
+      >
+        Opps! Algo deu errado, tente recarregar a página.
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`render Home with isLoading prop 1`] = `
+<div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-direction-xs-column"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <div
+        className="MuiBox-root MuiBox-root-105"
+      >
+        <div
+          className="MuiGrid-root header-component MuiGrid-container MuiGrid-justify-xs-center"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+          >
+            <h4>
+              CAMPEONATO DE FILMES
+            </h4>
+            <h1>
+              Fase de Seleção
+            </h1>
+            <hr
+              style={
+                Object {
+                  "width": "50px",
+                }
+              }
+            />
+            <p>
+              Selecione 8 filmes que você deseja que entre na competição e depois pressione o botão Gerar Meu Campeonato para prosseguir.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item"
+    >
+      <div
+        className="MuiGrid-root movies-component-count MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <h4>
+            Selecionados
+          </h4>
+          <p>
+            0 de 8
+          </p>
+        </div>
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeLarge"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="MuiButton-label"
+            >
+              Gerar Meu Campeonato
+            </span>
+          </button>
+        </div>
+      </div>
+      <p
+        className="text-center"
+      >
+        Carregando...
+      </p>
+    </div>
+  </div>
+</div>
+`;

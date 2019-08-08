@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Header from given props 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-2"
+>
+  <div
+    className="MuiGrid-root header-component MuiGrid-container MuiGrid-justify-xs-center"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+    >
+      <h4>
+        CAMPEONATO DE FILMES
+      </h4>
+      <h1>
+        Title Test
+      </h1>
+      <hr
+        style={
+          Object {
+            "width": "50px",
+          }
+        }
+      />
+      <p>
+        Testing header
+      </p>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render NotFound without errors 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-direction-xs-column"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-105"
+    >
+      <div
+        className="MuiGrid-root header-component MuiGrid-container MuiGrid-justify-xs-center"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+        >
+          <h4>
+            CAMPEONATO DE FILMES
+          </h4>
+          <h1>
+            404
+          </h1>
+          <hr
+            style={
+              Object {
+                "width": "50px",
+              }
+            }
+          />
+          <p />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <p
+      className="text-center"
+    >
+      Opps! Página não encontrada...
+    </p>
+  </div>
+</div>
+`;

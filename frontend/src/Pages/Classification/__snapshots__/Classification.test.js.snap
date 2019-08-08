@@ -1,0 +1,307 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Classification with data prop 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-direction-xs-column"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-146"
+    >
+      <div
+        className="MuiGrid-root header-component MuiGrid-container MuiGrid-justify-xs-center"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+        >
+          <h4>
+            CAMPEONATO DE FILMES
+          </h4>
+          <h1>
+            Resultado Final
+          </h1>
+          <hr
+            style={
+              Object {
+                "width": "50px",
+              }
+            }
+          />
+          <p>
+            Veja o resultado final do Campeonato de filmes de forma simples e rápida.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      style={
+        Object {
+          "marginBottom": "20px",
+        }
+      }
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"
+            />
+          </svg>
+          Voltar
+        </span>
+      </button>
+    </div>
+    <div
+      className="MuiGrid-root rank-component MuiGrid-container MuiGrid-direction-xs-column"
+    >
+      <div
+        className="MuiGrid-root champions MuiGrid-item"
+      >
+        <div
+          className="MuiBox-root MuiBox-root-147 position"
+        >
+          1
+          º
+        </div>
+        <div
+          className="title"
+        >
+          <h4>
+            Campeao
+          </h4>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root champions MuiGrid-item"
+      >
+        <div
+          className="MuiBox-root MuiBox-root-148 position"
+        >
+          2
+          º
+        </div>
+        <div
+          className="title"
+        >
+          <h4>
+            Vice
+          </h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`render Classification with hasError prop 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-direction-xs-column"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-145"
+    >
+      <div
+        className="MuiGrid-root header-component MuiGrid-container MuiGrid-justify-xs-center"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+        >
+          <h4>
+            CAMPEONATO DE FILMES
+          </h4>
+          <h1>
+            Resultado Final
+          </h1>
+          <hr
+            style={
+              Object {
+                "width": "50px",
+              }
+            }
+          />
+          <p>
+            Veja o resultado final do Campeonato de filmes de forma simples e rápida.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      style={
+        Object {
+          "marginBottom": "20px",
+        }
+      }
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"
+            />
+          </svg>
+          Voltar
+        </span>
+      </button>
+    </div>
+    <p
+      className="text-center"
+    >
+      Opps! Algo deu errado, tente novamente.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`render Classification with isLoading prop 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-direction-xs-column"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="MuiBox-root MuiBox-root-105"
+    >
+      <div
+        className="MuiGrid-root header-component MuiGrid-container MuiGrid-justify-xs-center"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+        >
+          <h4>
+            CAMPEONATO DE FILMES
+          </h4>
+          <h1>
+            Resultado Final
+          </h1>
+          <hr
+            style={
+              Object {
+                "width": "50px",
+              }
+            }
+          />
+          <p>
+            Veja o resultado final do Campeonato de filmes de forma simples e rápida.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      style={
+        Object {
+          "marginBottom": "20px",
+        }
+      }
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"
+            />
+          </svg>
+          Voltar
+        </span>
+      </button>
+    </div>
+    <p
+      className="text-center"
+    >
+      Carregando...
+    </p>
+  </div>
+</div>
+`;
